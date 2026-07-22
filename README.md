@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Monsooroffc/Monsooroffc/main/img.png" width="100%" alt="Monsoor Ali R Banner">
+  <img src="https://raw.githubusercontent.com/Monsooroffc/Monsooroffc/main/IMG.png" width="100%" alt="Monsoor Ali R Banner">
 </p>
 
 <div align="center">
